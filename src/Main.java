@@ -8,7 +8,7 @@ public class Main {
                 "России");
 
         Car audi = new Car("Audi", "A8 50 L TDI quattro",
-                3.0, "черный", 2020,
+                3.0, "черного", 2020,
                 "Германии");
 
         Car bmw = new Car("BMW", "Z8", 3.0,
